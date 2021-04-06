@@ -16,7 +16,4 @@ To install:
 
 - Open the APK file on your phone, and follow the instructions to allow installation from unknown sources.
 
-Demo Video:
-
-![bodyo_test](https://user-images.githubusercontent.com/13141632/113772096-86bbbf00-9724-11eb-8529-cf257c9e07be.gif)
-
+Demo video available here: [Demo Video](https://user-images.githubusercontent.com/13141632/113771133-4c9ded80-9723-11eb-92f7-33a7d49a5b50.mp4)
