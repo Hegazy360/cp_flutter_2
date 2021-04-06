@@ -3,6 +3,7 @@
 
 - Nested Routes
 - Nested Scroll Views
+- Custom Theme Configuration
 - SkSL warmup for smoother animations
 - Modular Architecture
 
