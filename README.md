@@ -15,3 +15,8 @@ To install:
   - [app-release.zip](https://github.com/Hegazy360/cp_flutter_2/files/6267143/app-release.zip)
 
 - Open the APK file on your phone, and follow the instructions to allow installation from unknown sources.
+
+Demo Video:
+
+https://user-images.githubusercontent.com/13141632/113771133-4c9ded80-9723-11eb-92f7-33a7d49a5b50.mp4
+
